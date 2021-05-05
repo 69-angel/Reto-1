@@ -1,7 +1,7 @@
 # Reto-1
 Reto Master Semana 1 Innovaccion Virtual
 
-![pexels-christina-morillo-1181354](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
+![pexels-christina-morillo-1181354](https://github.com/69-angel/Reto-1/blob/main/iua.jpg?raw=true)
 
 
 #	Conceptos basicos usado en la nube.
