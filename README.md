@@ -21,7 +21,7 @@ totalmente operativos que se ejecutan en centros de datos remotos.
 
 * **PaaS**
 
-_La capa del medio, la plataforma como servicio, es la encapsulación de una abstracción de un ambiente de desarrollo y el empaquetamiento de una serie de módulos o complementos que proporcionan, normalmente, una funcionalidad horizontal (persistencia de datos, autenticación, mensajería, etc.)_
+_Plataforma como servicio (PaaS) es distinta de IaaS. IaaS es más para los requisitos de hardware, pero PaaS ofrece sistemas operativos, sistemas de bases de datos o cualquier tipo de software que necesite tu negocio. Por ejemplo, la compra de un servidor de base de datos es costoso. Las licencias de Microsoft SQL Server pueden costar miles de euros. Sin embargo, con PaaS, tu negocio puede tener un servidor de base de datos sin necesidad de comprar la instalación completa del software y el hardware necesario para ofrecer una base de datos. Un ejemplo de PaaS es Google App Engine._
 
 ```
 Es basado en la instalacion o administracion del Software por ejemplo, un sistema Linux, 
@@ -30,9 +30,21 @@ un servidor web, y un ambiente de programación como Perl o Ruby.
 
 * **IaaS**
 
-_La infraestructura como servicio llamada en algunos casos hardware as a service, "HaaS" se encuentra en la capa inferior y es un medio de entregar almacenamiento básico y capacidades de cómputo como servicios estandarizados en la red. También conocida como Servicios de Infraestructura en la Nube, es una forma de cloud computing que ofrece a los usuarios finales una infraestructura de TI a través de Internet. Por lo general, se la asocia con la informática sin servidor._
+_La infraestructura como servicio (IaaS) da más recursos a la red existente. IaaS es básicamente una extensión de tu infraestructura de red actual. Podrás agregar nuevas direcciones IP, almacenamiento, balanceadores de carga de virtualización (redes virtuales) y firewalls._
 
 ```
 Por ejemplo es mayormente almacenamiento como: Servidores, sistemas de almacenamiento, conexiones, enrutadores, 
 y otros sistemas se concentran para manejar tipos específicos de cargas de trabajo
+```
+
+* **CDNs**
+
+_Las redes de entrega de contenido (CDN - Content delivery networks) son beneficiosas cuando se necesita para alojar archivos grandes, como vídeos o imágenes . Un CDN entrega el contenido desde el centro de datos más cercano al usuario final. Dado que los archivos están alojados en un centro de datos y los centros de datos se encuentran en todo el mundo, los archivos grandes llegan a los usuarios mucho más rápidamente . Un CDN es beneficioso para los sitios de contenido que contengan vídeos almacenados o imágenes de gran tamaño tales, por ejemplo sitios web de fotografía._
+
+```
+Los CDN también son útiles para la aceleración de sitios web . Principalmente son usados para imágenes y video,
+pero un CDN también puede mejorar en gran medida el rendimiento de un sitio web. Si piensas que tu sitio web va
+a crecer en popularidad, un CDN será de gran utilidad para tu sitio. También es útil si tu público objetivo es
+global. Con centros de datos ubicados en todo el mundo , los CDN son útiles para los sitios web con una audiencia
+global fuera del país de tu hosting.
 ```
