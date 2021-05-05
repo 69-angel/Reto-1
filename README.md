@@ -48,3 +48,20 @@ a crecer en popularidad, un CDN será de gran utilidad para tu sitio. También e
 global. Con centros de datos ubicados en todo el mundo , los CDN son útiles para los sitios web con una audiencia
 global fuera del país de tu hosting.
 ```
+
+### Tipos de modelos de nube según la privacidad
+
+* **Nubes públicas**
+
+_Los usuarios acceden a los servicios de manera compartida sin que exista un exhaustivo control sobre la ubicación de la información que reside en los servidores del proveedor. El hecho de sean públicas no es un sinónimo de sean inseguras._
+
+
+* **Nubes privadas**
+
+_Para los clientes que necesiten, por la criticidad de la información que manejen una infraestructura, plataforma y aplicaciones de su uso exclusivo._
+
+
+* **Nubes híbridas**
+
+_Combinan características de las dos anteriores, de manera que parte del servicio se puede ofrecer de manera privada (por ejemplo la infraestructura) y otra parte de manera compartida (por ejemplo las herramientas de desarrollo)._
+
